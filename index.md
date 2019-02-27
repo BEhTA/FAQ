@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Frequently Asked Questions
 
-You can use the [editor on GitHub](https://github.com/BEhTA/FAQ/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### What do you research?
+We have many various projects going on! Our research revolves around patients of various mediums, people in the community, students, and more! Click around on our homepage to view each of our ongoing projects in more detail.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where are you located?
+We are located at Marquette University in Milwaukee, Wisconsin. Our lab is under the physical therapy department, located in the Schroeder Complex.
 
-### Markdown
+### Who should I contact if I want to have a collaboration with the lab?
+You can email us and we will get back to you! Send us your name, information, and what you are thinking of working together on or if you have information that is relative to our research!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Us
+BEhTA.lab.mu@gmail.com
 
-```markdown
-Syntax highlighted code block
+-[Facebook](https://www.facebook.com/BEhTA.lab.mu/?view_public_for=333460707302009)
 
-# Header 1
-## Header 2
-### Header 3
+-[Twitter](https://twitter.com/BEhTA_Lab)
 
-- Bulleted
-- List
+-[Linkedin](https://www.linkedin.com/in/behta-lab-957408180/)
 
-1. Numbered
-2. List
+-[Instagram](https://www.instagram.com/behta_lab/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BEhTA/FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-[Homepage](https://behta.github.io/BEhTA.Lab/)
